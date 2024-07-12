@@ -8,7 +8,11 @@
 📫 Reach me at atta.rehmanmishwani@gmail.com
 
 ## Connect with me:
-
+   <p>
+        <a href="">
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="">
+        </a>
+    </p>
 <p align="left">
   <a href="https://www.linkedin.com/in/atta-ur-rehman-mishwani-964a58317/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/itsatta00/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
