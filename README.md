@@ -11,6 +11,9 @@
  
 [![My Skills](https://skillicons.dev/icons?i=instagram,linkedin)](https://skillicons.dev)
 
+- [LinkedIn](https://www.linkedin.com/in/atta-ur-rehman-mishwani-964a58317/)
+- [Instagram](https://www.instagram.com/itsatta00/)
+
 ## Languages and Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,css,html,bootstrap,git,github)](https://skillicons.dev)
