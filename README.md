@@ -9,14 +9,15 @@
 
 ## Connect with me:
  
-  <p>
-        <a href="https://www.linkedin.com/in/atta-ur-rehman-mishwani-964a58317/" style="margin: 5px 10px;">
-            <img width="50px"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="">
-        </a>
-        <a href="https://www.instagram.com/itsatta00/"  style="margin: 5px 10px;">
-            <img width="50px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="">
-        </a>
-    </p>
+<p>
+  <a href="https://www.linkedin.com/in/atta-ur-rehman-mishwani-964a58317/">
+    <img width="50px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/itsatta00/">
+    <img width="50px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram">
+  </a>
+</p>
+
 
 ## Languages and Tools:
 
