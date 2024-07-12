@@ -9,10 +9,14 @@
 
 ## Connect with me:
  
-[![My Skills](https://skillicons.dev/icons?i=instagram,linkedin)](https://skillicons.dev)
-
-- [LinkedIn](https://www.linkedin.com/in/atta-ur-rehman-mishwani-964a58317/)
-- [Instagram](https://www.instagram.com/itsatta00/)
+  <p>
+        <a href="https://www.linkedin.com/in/atta-ur-rehman-mishwani-964a58317/">
+            <img width="80px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="">
+        </a>
+        <a href="https://www.instagram.com/itsatta00/">
+            <img width="80px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="">
+        </a>
+    </p>
 
 ## Languages and Tools:
 
